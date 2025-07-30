@@ -5,9 +5,9 @@ This is a guide on constructing the modulator used in my research papers. It is 
 Hopefully it is all the info that you will need to build one. If you have any questions then feel free to reach out and ask (I have no permanent email address at present, but I will add this in when I can), I am always keen to help people access the power of GCxGC and MDGC!  
   
 Construction folder will contain all the details for building the device including 3D models and step-by-step instructions (WIP, currently contains only the 3D files)  
-Code folder contains the arduino code which should be well commented so people unfamiliar with C++ can make alterations to suit their modulating needs. There will be new versions coming in future.
+Code folder contains the arduino code which should be well commented so people unfamiliar with C++ can make alterations to suit their modulating needs. There will be new versions with different functionality coming in future.
 
-My goal is to eventually make this simple enough that it could be built as final year undergraduate research project.  
+My goal is to eventually make this simple enough that it could be built as final year undergraduate research project so that GC×GC is easily accessible to anyone who wants to try it.  
 Realistically this might only be feasible for undergraduates who already have some engineering/GC familiarity.  
   
   
